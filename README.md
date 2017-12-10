@@ -1,12 +1,12 @@
 # Psychic-Game
 
-# JavaScript Assignment
+# JavaScript Assignment Week 3
 
 ### Overview
 
-In this assignment, I chose to create Psychic. These app runs in the browser, and features dynamically updated HTML powered by my JavaScript code.
+In this assignment, I chose to create Psychic. This app runs in the browser, and features dynamically updated HTML powered by my JavaScript code.
 
-## Option One: Psychic Game (Basic)
+## Psychic Game (Basic)
 
 1. My app randomly picks a letter, and the user has to guess which letter the app chose. I put the following text on my page:
 
