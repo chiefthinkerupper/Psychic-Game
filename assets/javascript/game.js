@@ -11,6 +11,9 @@
       guessedLetters.push(userGuess); // The push() method adds new items to the end of an array, and returns the new length.    
       var psychicAnswer = psychLetters[Math.floor(Math.random() * psychLetters.length)];
 
+      //Displays the psychicAnswer value in the console
+      console.log(psychicAnswer);
+      
       //Clears the amount Guess Key Letters when they reach the end of their left # of guesses left
       var reset = function () {
         guessesRemaining = 10;
