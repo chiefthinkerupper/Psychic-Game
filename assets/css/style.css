@@ -1,0 +1,30 @@
+/*Pyschic Style Sheet*/
+
+body {
+	background-image: url(../images/crystal-ball-fortune-teller.jpg);
+	background-size: cover;
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 960px;
+}
+
+#psychicInfo {
+	height: 100%;
+	width: 655px;
+	padding: 20px;
+	margin-top: 85px;
+	background-color: rgba(4, 3, 1, 0.41);
+}
+
+h1 {
+	font-family: 'Mystery Quest', cursive;
+	color: #ffffff;
+	font-size: 45px;
+	text-shadow: 2px 2px #f68f42;
+}
+
+p {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 30px;
+	color: #ffffff;
+}
